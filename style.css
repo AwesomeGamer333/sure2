@@ -1,3 +1,16 @@
 #red {
-  color: red
+  color: red;
+  line-height: 0.5
+}
+#greenrank {
+  color:lightgreen;
+  display: inline-block;
+  line-height: 0.5
+}
+#inline {
+  display: inline-block;
+  line-height: 0.5
+}
+p {
+line-height: 0.5
 }
